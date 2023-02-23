@@ -31,7 +31,7 @@ if [ $(id -u) -eq 0 ]; then
 	git clone https://github.com/HOS-OS/HOS-newusers.git;
 	cd /home/$USER/HOS-newusers/;
 	unzip backup.zip;
-	cd /home/$USER/HOS-new\/backup;
+	cd /home/$USER/HOS-newusers/backup;
 	cp -r /home/$USER/HOS-newusers/backup/\. /home/$username;
 	chown -R $username:$username /home/$username;
 	clear;
