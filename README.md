@@ -1,5 +1,7 @@
 # HOS-newusers
 **This repo is meant for testing Hos OS 4.x and newer versions with the new add user script. 
+https://sites.google.com/view/hos-os-download/experimental-features
+
 
 you must be root to run this script.
 
