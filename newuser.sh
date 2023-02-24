@@ -34,6 +34,7 @@ if [ $(id -u) -eq 0 ]; then
 	cd /home/$USER/HOS-newusers/backup;
 	cp -r /home/$USER/HOS-newusers/backup/\. /home/$username;
 	chown -R $username:$username /home/$username;
+	usermod -aG sudo $username ; 
 	clear;
 	echo "Done!!!!";
 	echo "Do you see your new users name below?";
