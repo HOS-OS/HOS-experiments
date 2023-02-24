@@ -3,5 +3,6 @@
 
 you must be root to run this script.
 
+new users should added will have sudo privileges.
 this script has only been tested in a virtual machine so take caution before using it.**
 
