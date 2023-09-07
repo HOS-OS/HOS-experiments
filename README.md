@@ -1,8 +1,8 @@
-# Snapswap
+# New User Script
 
 
 <p align="center">
-  <img src="https://github.com/HOS-OS/snapswap/blob/main/snapswap.jpg" height="200" alt="add userLogo">
+  <img src="https://github.com/HOS-OS/HOS-newusers/blob/main/logo.png" height="200" alt="add userLogo">
 </p>
 
 
